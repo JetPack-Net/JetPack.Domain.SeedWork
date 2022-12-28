@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Title>JetPack.Domain.SeedWork</Title>
+		<Authors>JetPack DotNet Contributors (Open Source)</Authors>
+		<Description>SeedWork for a .Net DDD Approach</Description>
+		<PackageReleaseNotes>Base seedwork components</PackageReleaseNotes>
+		<PackageId>JetPack.Domain.SeedWork</PackageId>
+		<PackageTags>DDD, Domain Driven Design, SeedWork, JetPack</PackageTags>
+		<Version>1.0.0</Version>
+	</PropertyGroup>
+</Project>
